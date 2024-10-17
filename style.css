@@ -20,7 +20,7 @@ body {
 }
 
 #hero {
-    background-image: url('/Imagenes/pexels-dmitry-demidov-515774-3852577.jpg');
+    background-image: url('/Imagenes/FondoHero.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
